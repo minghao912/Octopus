@@ -1,5 +1,5 @@
 //Define processing URL and form element
-const url = 'process.php';
+const url = 'upload.php';
 const form = document.querySelector('form');
 
 //Listen for form submission
